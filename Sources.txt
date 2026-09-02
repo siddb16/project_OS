@@ -1,0 +1,2 @@
+Videos:
+Building an OS - 1 - Hello world (https://www.youtube.com/watch?v=9t-SPC7Tczc)
